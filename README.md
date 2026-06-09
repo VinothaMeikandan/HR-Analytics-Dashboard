@@ -33,4 +33,5 @@ Explore employee retention patterns
 Dashboard Preview
 ## Dashboard Preview
 
-![Dashboard](Images/dashboardHR.png)
+<img width="1108" height="628" alt="image" src="https://github.com/user-attachments/assets/5e26bd04-6753-4820-8587-0ebbf7f34366" />
+
